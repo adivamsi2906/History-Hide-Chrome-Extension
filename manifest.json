@@ -1,0 +1,9 @@
+{
+    "name": "History Hider",
+    "version": "1.0",
+    "description": "Dare if you see my history",
+    "chrome_url_overrides": {
+        "history": "history.html"
+    },
+    "manifest_version": 2
+}
