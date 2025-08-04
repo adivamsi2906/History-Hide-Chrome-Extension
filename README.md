@@ -1,5 +1,4 @@
 # History-Hide-Chrome-Extension
-History Hider Chrome Extension We know that Chrome extensions make our tasks simpler and manage our chrome browser like blocking Ads,MP3 players,Video Players........that are very useful to be comfortable within the chrome browser without looking for an external application to do the task. Here we developed a small chrome extension that blocks showing history when we view history.Instead of displaying the history we display a dummy image,gif,any other irrelevant media.Thus we can attain privacy in case if we handle over our system to any other person. Here we used HTML,CSS and JSON files to display a gif instead of the history and we aligned the gif to be fit to the screen window perfectly.
 
 Client-Side Privacy- Enhancing and History Masking Chrome Extension Using Steganographic Techniques. 
 
@@ -14,3 +13,5 @@ Client-Side Privacy- Enhancing and History Masking Chrome Extension Using Stegan
 🛠 Built using front-end web technologies: Developed using HTML, CSS, and Chrome Manifest v3 APIs, demonstrating practical knowledge of browser architecture, permission handling, and UI-level content manipulation.
 
 A lightweight privacy-enhancing Chrome extension with ties to basic cybersecurity concepts.
+
+History Hider Chrome Extension We know that Chrome extensions make our tasks simpler and manage our chrome browser like blocking Ads,MP3 players,Video Players........that are very useful to be comfortable within the chrome browser without looking for an external application to do the task. Here we developed a small chrome extension that blocks showing history when we view history.Instead of displaying the history we display a dummy image,gif,any other irrelevant media.Thus we can attain privacy in case if we handle over our system to any other person. Here we used HTML,CSS and JSON files to display a gif instead of the history and we aligned the gif to be fit to the screen window perfectly.
